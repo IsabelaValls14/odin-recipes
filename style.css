@@ -2,10 +2,12 @@
     font-family: fantasy;
     color: darkslateblue;
     font-weight: bolder;
+    margin: 0 auto;
 }
 
 * {
     background-color: thistle;
     font-family: fantasy;
-    text-align: center;
+    margin: 10px;
+    width: 70%;
 }
