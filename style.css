@@ -1,0 +1,11 @@
+.title-header {
+    font-family: fantasy;
+    color: darkslateblue;
+    font-weight: bolder;
+}
+
+* {
+    background-color: thistle;
+    font-family: fantasy;
+    text-align: center;
+}

@@ -1,0 +1,53 @@
+.tipo-h2 {
+    font-family: fantasy;
+    color: darkred;
+}
+
+.intro-parr {
+    font-family: fantasy;
+    color: darkslateblue;
+    text-align: center;
+}
+
+.imagen-grande {
+    padding: inherit;
+    margin: auto;
+    width: 500px;
+    display: block;
+}
+
+.lista{
+    font: arial;
+    color:dimgray;
+}
+
+.titulo {
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+    font-family: fantasy;
+}
+
+.titulo.pasta {
+    color: brown;
+    background-color: wheat;
+}
+.titulo.acai {
+    color:blueviolet;
+    background-color: antiquewhite;
+}
+
+.titulo.brownies {
+    color:saddlebrown;
+    background-color: antiquewhite;
+}
+
+* {
+    background-color: thistle;
+    font-family:cursive;
+}
+
+.subtitulo {
+    text-align: center;
+    font-family: fantasy;
+}
